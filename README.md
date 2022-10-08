@@ -16,17 +16,17 @@ Introductory course for those with interest in data analytics or data science an
 
 ## Analyzing historical sales of Supermarket Company recorded in 3 different branches for First Q3 in 2019
 
-Data:
+### Data:
 
 AUNG PYAE (2019). Supermarket sales [Dataset]. https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales 
 
 The dataset is one of the historical sales of Supermarket Company which has recorded in 3 different branches for 3 months data.
 
-File descriptions
+### File descriptions:
 
 •	supermarket_sales.xlsx - Daily sales data covering 3 months.
 
-Column descriptions
+### Column descriptions
 
 •	Invoice id: Computer generated sales slip invoice identification number
 
